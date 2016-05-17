@@ -242,3 +242,5 @@ CONFIG_EAP_PROXY_MSM8994_TARGET := true
 
 # Use the non-open-source parts, if they're present
 -include vendor/yu/sambar/BoardConfigVendor.mk
+
+TARGET_UNOFFICIAL_BUILD_ID := darshan1205
