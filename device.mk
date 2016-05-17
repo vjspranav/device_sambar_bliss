@@ -143,6 +143,10 @@ PRODUCT_PACKAGES += \
     com.qti.dpmframework \
     dpmapi
 
+# Doze mode
+PRODUCT_PACKAGES += \
+    YUDoze
+
 # FM
 PRODUCT_PACKAGES += \
     FM2 \
